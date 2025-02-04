@@ -11,3 +11,6 @@ By analyzing medical records, patient age, and the purpose of the visit, the sys
 
 This helps reduce waiting times, streamline doctors' schedules, and enhance the patient experience. 
 With SmartWAIting , patients can better plan their day and minimize the negative impact of delays on their lives.
+
+Link of the presentation:
+https://docs.google.com/presentation/d/1rOv7G2mncK3cMloBaCp5XW_EEykNQhjEWL3EsiOFwm4/edit?usp=sharing
